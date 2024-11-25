@@ -118,6 +118,10 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
    <br> 
   <div align="center"> 
+    <div>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=c4526">
+    </div>
+    <br/>
     <img src="https://github-readme-stats.vercel.app/api?username=chajoyhoi&bg_color=FFD5E2&title_color=7A7A7A&text_color=7A7A7A&cache_seconds=86400"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chajoyhoi&layout=compact&bg_color=FFD5E2&title_color=7A7A7A&text_color=7A7A7A&cache_seconds=86400"/>
   </div>
