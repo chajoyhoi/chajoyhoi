@@ -1,39 +1,125 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=FFD5E2&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=Hello!+I'm+YuRim+(●'◡'●))](https://git.io/typing-svg)
-
-## 👋 Welcome to My Github
-안녕하세요. 사용자 친화적인 서비스 경험을 설계하는 프론트엔드 개발자 차유림 입니다.
-
-## 🎓Educations & Experiences
-- 2024.01 ~ 2024.12 삼성 청년 SW아카데미(SSAFY) 11기 이수
-
-## 👨‍💻Project
-- 2024.10 ~ 2024.11 [편의점/슈퍼 배달/픽업 고객 대상 재구매 상품 추천 앱, 대시보드 서비스, 우리동네단골](https://github.com/oodongdan/ODD)
-- 2024.08 ~ 2024.10 [보행자를 위해 신호등 잔여시간을 제공해주며 편리한 도보 안내를 도와주는 서비스, 언제그린](https://github.com/readygreen/readygreen)
-- 2024.07 ~ 2024.08 [식물을 키우는 사람들을 위한 SNS 서비스, 플로그]
-- 2024.05 ~ 2024.05 [금융 데이터를 활용한 금융 상품 비교 애플리케이션]
-
-## 🏆Awards
-- 2024.10 삼성 청년 SW아카데미 특화프로젝트 우수상 
-- 2024.05 삼성 청년 SW아카데미 관통프로젝트 우수상
-
-
-##  💻Skill
-**language & Framework**
-
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  
-**SUPPORT TOOL**
-
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chajoyhoi&layout=compact&bg_color=31,f7cac9,92a8d1&title_color=fff&text_color=fff)
-
-## ✉️ Contact 
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:c4526@naver.com">
-        <img src="https://img.shields.io/badge/Naver-037C5A?style=flat-square&logo=Naver&logoColor=white"> 
-    </a>
-      <a href="mailto:cc45267@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=70&duration=7000&pause=3&color=FFD5E2&center=true&vCenter=true&repeat=true&width=1500&height=150&lines=Hello!+I'm+YuRim+(●'◡'●)">
     </a>
 </div>
+
+
+<br>
+
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 Welcome to My Github </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+      안녕하세요. 사용자 친화적인 서비스 경험을 설계하는 프론트엔드 개발자 차유림 입니다.</li> 
+    </div> 
+</div>
+<br>    
+
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓Educations & Experiences </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+      <li> <b style="color: #7A7A7A;"> 2024.01 ~ 2024.12</b> 삼성 청년 SW아카데미(SSAFY) 11기 이수</li>
+      <li> <b style="color: #7A7A7A;"> 2018.03 ~ 2023.02</b> 수학과 전공 / 응용통계학과 복수전공 
+    </div> 
+</div>
+<br>   
+<div align="center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👨‍💻 Project </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+        <li> <b>2024.10 ~ 2024.11</b>
+            <a href="https://github.com/oodongdan/ODD" target="_blank">
+                [우리동네단골]
+            </a>
+          <p>편의점/슈퍼 배달/픽업 고객 대상 재구매 상품 추천 앱 & 대시보드</p>
+        </li>
+      <br>  
+        <li> <b>2024.08 ~ 2024.10</b>
+            <a href="https://github.com/readygreen/readygreen" target="_blank">
+                [언제그린]
+            </a>
+          <p>보행자를 위해 신호등 잔여시간을 제공하고 편리한 도보 안내를 도와주는 서비스</p>
+        </li>
+      <br>  
+        <li> <b>2024.07 ~ 2024.08</b> 
+            <a href="https://github.com/Plober-Plog" target="_blank">
+                [PLog]
+            </a>
+          <p>식물을 키우는 사람들을 위한 SNS 서비스 </p>
+        </li>
+      <br>  
+        <li> <b>2024.05 ~ 2024.05</b>
+            <a href="https://github.com/chajoyhoi/MoFIN" target="_blank">
+              [MoFIN]
+            </a>
+          <p>금융 데이터를 활용한 금융 상품 비교 애플리케이션</p>
+        </li>
+       <br>  
+    </div> 
+</div>
+
+<div align="center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆Awards </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+      <li> <b style="color: #7A7A7A;">2024.10</b> 삼성 청년 SW아카데미 특화프로젝트 우수상 </li>
+      <li> <b style="color: #7A7A7A;">2024.05</b> 삼성 청년 SW아카데미 관통프로젝트 우수상</li> 
+    </div> 
+</div>
+<br>
+<br>
+<div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💻 Skill</h2><br>
+    <div style="margin: 0 auto; text-align: center;" align="center">
+        <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Language & Framework</h3><br>
+        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+        <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+        <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+    </div>
+    <br>
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">SUPPORT TOOL</h3><br>
+    <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+        <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+        <img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
+        <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+    </div>
+</div>
+<br>
+<br>
+<div align= "center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✉️ Contact</h2> 
+  <br> 
+  <div align= "center"> 
+    <a href=mailto:cc45267@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cc45267@gmail.com"> </a>
+    <a href=c4526@naver.com> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=c4526@naver.com"> </a>
+  </div>  
+  <br> 
+<div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchajoyhoi%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+   </div> 
+</div>
+ <br> 
+ <br> 
+<div align="center"> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+   <br> 
+  <div align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=chajoyhoi&bg_color=FFD5E2&title_color=7A7A7A&text_color=7A7A7A&cache_seconds=86400"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chajoyhoi&layout=compact&bg_color=FFD5E2&title_color=7A7A7A&text_color=7A7A7A&cache_seconds=86400"/>
+  </div>
+  <br>
+</div>
+
+    
