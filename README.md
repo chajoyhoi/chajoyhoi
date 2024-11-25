@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=FFD5E2&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=Hello! +I'm+YuRim🎀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=FFD5E2&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=Hello!+I'm+YuRim+(●'◡'●))](https://git.io/typing-svg)
 
 ## 👋 Welcome to My Github
 안녕하세요. 사용자 친화적인 서비스 경험을 설계하는 프론트엔드 개발자 차유림 입니다.
@@ -16,6 +16,18 @@
 - 2024.10 삼성 청년 SW아카데미 특화프로젝트 우수상 
 - 2024.05 삼성 청년 SW아카데미 관통프로젝트 우수상
 
+
+##  💻Skill
+**language & Framework**
+
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  
+**SUPPORT TOOL**
+
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chajoyhoi&layout=compact&bg_color=31,f7cac9,92a8d1&title_color=fff&text_color=fff)
+
 ## ✉️ Contact 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:c4526@naver.com">
@@ -25,14 +37,3 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
     </a>
 </div>
-
-##  💻Skill
-**language & Framework**
-
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  
-**SUPPORT TOOL**
-
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswe0409&layout=compact&bg_color=31,f7cac9,92a8d1&title_color=fff&text_color=fff)
