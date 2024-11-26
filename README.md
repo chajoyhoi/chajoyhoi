@@ -27,10 +27,10 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👨‍💻 Project </h2>  
 <table align="center" style="table-layout: fixed; width: 100%; border-collapse: collapse;">
     <tr>
-        <td align="center"><img src="odd.png" alt="우리동네단골" title="우리동네단골" style="width: 150px; height: 150px; object-fit: cover;"></td>
-        <td align="center"><img src="readygreen.png" alt="언제그린" title="언제그린" style="width: 150px; height: 150px; object-fit: cover;"></td>
-        <td align="center"><img src="PLog.png" alt="PLog" title="PLog" style="width: 150px; height: 150px; object-fit: cover;"></td>
-        <td align="center"><img src="mofin.png" alt="mofin" title="MoFIN" style="width: 150px; height: 150px; object-fit: cover;"></td>
+        <td align="center"><img src="img/odd.png" alt="우리동네단골" title="우리동네단골" style="width: 150px; height: 150px; object-fit: cover;"></td>
+        <td align="center"><img src="img/readygreen.png" alt="언제그린" title="언제그린" style="width: 150px; height: 150px; object-fit: cover;"></td>
+        <td align="center"><img src="img/PLog.png" alt="PLog" title="PLog" style="width: 150px; height: 150px; object-fit: cover;"></td>
+        <td align="center"><img src="img/mofin.png" alt="mofin" title="MoFIN" style="width: 150px; height: 150px; object-fit: cover;"></td>
     </tr>
     <tr>
        <td align="center"><b><a href="https://github.com/oodongdan/ODD">우리동네단골</a></b></td>
