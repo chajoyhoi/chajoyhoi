@@ -9,12 +9,13 @@
 
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 Welcome to My Github </h2>  
+    <br>   
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
       안녕하세요. 사용자 친화적인 서비스 경험을 설계하는 프론트엔드 개발자 차유림 입니다.</li> 
     </div> 
 </div>
 <br>    
-
+<br>   
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓Educations & Experiences </h2>  
         <p align="center"></br>
@@ -25,43 +26,46 @@
 <br>   
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👨‍💻 Project </h2>  
-<table align="center" style="table-layout: fixed; width: 100%; border-collapse: collapse;">
-    <tr>
-        <td align="center"><img src="img/odd.png" alt="우리동네단골" title="우리동네단골" style="width: 150px; height: 150px; object-fit: cover;"></td>
-        <td align="center"><img src="img/readygreen.png" alt="언제그린" title="언제그린" style="width: 150px; height: 150px; object-fit: cover;"></td>
-        <td align="center"><img src="img/PLog.png" alt="PLog" title="PLog" style="width: 150px; height: 150px; object-fit: cover;"></td>
-        <td align="center"><img src="img/mofin.png" alt="mofin" title="MoFIN" style="width: 150px; height: 150px; object-fit: cover;"></td>
-    </tr>
-    <tr>
-       <td align="center"><b><a href="https://github.com/oodongdan/ODD">우리동네단골</a></b></td>
-            <td align="center"><b><a href="https://github.com/readygreen/readygreen">언제그린</a></b></td>
-            <td align="center"><b><a href="https://github.com/Plober-Plog/Plog">PLog</a></b></td>
-            <td align="center"><b><a href="https://github.com/chajoyhoi/MoFIN">MoFIN</a></b></td>
-    </tr>
-    <tr>
-        <td align="center">2024.10 ~ 2024.11</td>
-        <td align="center">2024.08 ~ 2024.10</td>
-        <td align="center">2024.07 ~ 2024.08</td>
-        <td align="center">2024.05 ~ 2024.05</td>
-    </tr>
-    <tr>
-        <td align="center"><b>FE</b></td>
-        <td align="center"><b>FE</b></td>
-        <td align="center"><b>FE</b></td>
-        <td align="center"><b>BE, FE</b></td>
-    </tr>
-    <tr>
-        <td align="center">편의점/마트 재구매 상품 추천 <br> 앱 및 대시보드 서비스</td>
-        <td align="center">신호등 잔여시간을 제공하는<br> 도보 안내 서비스</td>
-        <td align="center">식물을 키우는 사람들을 위한 <br> SNS 서비스</td>
-        <td align="center">금융 데이터를 활용한 <br> 금융 상품 비교 애플리케이션</td>
-    </tr>
-</table>
+    <br>
+    <table align="center" style="table-layout: fixed; width: 100%; border-collapse: collapse;">
+        <tr>
+            <td align="center"><img src="img/odd.png" alt="우리동네단골" title="우리동네단골" style="width: 150px; height: 150px; object-fit: cover;"></td>
+            <td align="center"><img src="img/readygreen.png" alt="언제그린" title="언제그린" style="width: 150px; height: 150px; object-fit: cover;"></td>
+            <td align="center"><img src="img/PLog.png" alt="PLog" title="PLog" style="width: 150px; height: 150px; object-fit: cover;"></td>
+            <td align="center"><img src="img/mofin.png" alt="mofin" title="MoFIN" style="width: 150px; height: 150px; object-fit: cover;"></td>
+        </tr>
+        <tr>
+           <td align="center"><b><a href="https://github.com/oodongdan/ODD">우리동네단골</a></b></td>
+                <td align="center"><b><a href="https://github.com/readygreen/readygreen">언제그린</a></b></td>
+                <td align="center"><b><a href="https://github.com/Plober-Plog/Plog">PLog</a></b></td>
+                <td align="center"><b><a href="https://github.com/chajoyhoi/MoFIN">MoFIN</a></b></td>
+        </tr>
+        <tr>
+            <td align="center">2024.10 ~ 2024.11</td>
+            <td align="center">2024.08 ~ 2024.10</td>
+            <td align="center">2024.07 ~ 2024.08</td>
+            <td align="center">2024.05 ~ 2024.05</td>
+        </tr>
+        <tr>
+            <td align="center"><b>FE</b></td>
+            <td align="center"><b>FE</b></td>
+            <td align="center"><b>FE</b></td>
+            <td align="center"><b>BE, FE</b></td>
+        </tr>
+        <tr>
+            <td align="center">편의점/마트 재구매 상품 추천 <br> 앱 및 대시보드 서비스</td>
+            <td align="center">신호등 잔여시간을 제공하는<br> 도보 안내 서비스</td>
+            <td align="center">식물을 키우는 사람들을 위한 <br> SNS 서비스</td>
+            <td align="center">금융 데이터를 활용한 <br> 금융 상품 비교 애플리케이션</td>
+        </tr>
+    </table>
 
 </div>
-
+<br>   
+<br>   
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆Awards </h2>  
+    <br>   
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
       <li> <b style="color: #7A7A7A;">2024.10 삼성 청년 SW아카데미 특화프로젝트 우수상 </b></li>
       <li> <b style="color: #7A7A7A;">2024.05 삼성 청년 SW아카데미 관통프로젝트 우수상 </b></li> 
@@ -116,7 +120,7 @@
    </div> 
 </div>
  <br> 
- <br> 
+ <br>  
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
    <br> 
