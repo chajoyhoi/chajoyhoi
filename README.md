@@ -19,8 +19,8 @@
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓Educations & Experiences </h2>  
         <p align="center"></br>
-             <b>2024.01 ~ 2024.12</b> 삼성 청년 SW아카데미(SSAFY) 11기 이수  </br></br>
-             <b>2018.03 ~ 2023.02</b> 수학과 전공 / 응용통계학과 복수전공 
+             2024.01 ~ 2024.12 <b>삼성 청년 SW아카데미(SSAFY) 11기 이수</b>  </br></br>
+             2018.03 ~ 2023.02 <b>수학과 전공 / 응용통계학과 복수전공</b>
         </p>
 </div>
 <br>   
@@ -67,8 +67,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆Awards </h2>  
     <br>   
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
-      <li> <b style="color: #7A7A7A;">2024.10 삼성 청년 SW아카데미 특화프로젝트 우수상 </b></li>
-      <li> <b style="color: #7A7A7A;">2024.05 삼성 청년 SW아카데미 관통프로젝트 우수상 </b></li> 
+      <li> 2024.10 <b style="color: #7A7A7A;">삼성 청년 SW아카데미 특화프로젝트 우수상 </b></li>
+      <li> 2024.05 <b style="color: #7A7A7A;">삼성 청년 SW아카데미 관통프로젝트 우수상 </b></li> 
     </div> 
 </div>
 <br>
