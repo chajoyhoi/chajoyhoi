@@ -20,7 +20,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓Educations & Experiences </h2>  
         <p align="center"></br>
              2024.01 ~ 2024.12 <b>삼성 청년 SW아카데미(SSAFY) 11기 이수</b>  </br></br>
-             2018.03 ~ 2023.02 <b>수학과 전공 / 응용통계학과 복수전공</b>
         </p>
 </div>
 <br>   
