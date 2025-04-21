@@ -1,7 +1,10 @@
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=70&duration=7000&pause=3&color=FFD5E2&center=true&vCenter=true&repeat=true&width=1500&height=150&lines=Hello!+I'm+YuRim+(●'◡'●)">
-    </a>
+    <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&color=FFD5E2&size=55&center=true&vCenter=true&width=1500&height=150&lines=%E3%80%80%E3%80%80Hello!+I'm+YuRim+(●'◡'●)+%E3%80%80%E3%80%80" alt="Typing SVG">
+  </a>
+</p>
+
 </div>
 
 
@@ -11,7 +14,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 Welcome to My Github </h2>  
     <br>   
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
-      안녕하세요. 사용자 친화적인 서비스 경험을 설계하는 프론트엔드 개발자 차유림 입니다.</li> 
+      안녕하세요. 사용자 친화적인 서비스 경험을 설계하는 프론트엔드 개발자 차유림 입니다.
     </div> 
 </div>
 <br>    
